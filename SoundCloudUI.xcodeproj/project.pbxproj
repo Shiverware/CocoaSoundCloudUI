@@ -84,7 +84,7 @@
 		F6EF8CF513F92CF900B20B40 /* SCTableCellBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = F6EF8CBC13F92CF900B20B40 /* SCTableCellBackgroundView.m */; };
 		F6EF8CF613F92CF900B20B40 /* SCTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = F6EF8CBD13F92CF900B20B40 /* SCTextField.h */; };
 		F6EF8CF713F92CF900B20B40 /* SCTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = F6EF8CBE13F92CF900B20B40 /* SCTextField.m */; };
-		F6EF8CF813F92CF900B20B40 /* SCUI.h in Headers */ = {isa = PBXBuildFile; fileRef = F6EF8CBF13F92CF900B20B40 /* SCUI.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6EF8CF813F92CF900B20B40 /* SCUI.h in Headers */ = {isa = PBXBuildFile; fileRef = F6EF8CBF13F92CF900B20B40 /* SCUI.h */; };
 		F6EF8CF913F92CF900B20B40 /* SCUnderlinedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = F6EF8CC013F92CF900B20B40 /* SCUnderlinedButton.h */; };
 		F6EF8CFA13F92CF900B20B40 /* SCUnderlinedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = F6EF8CC113F92CF900B20B40 /* SCUnderlinedButton.m */; };
 		F6EF8CFD13F92D5E00B20B40 /* SoundCloudUI-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = F6EF8CFC13F92D5E00B20B40 /* SoundCloudUI-Prefix.pch */; };
